@@ -16,9 +16,9 @@ File: ex2a.c
   Compile: gcc ex2a.c -Wall -o ex2a  
   Run: ./ex2a  
   input: no input  
-  output: 1 if finished under 1 sec  
-          2 if finished under 2 sec  
-          0 if finished over 2 sec  
+  output: 1 if finished under 1 sec,
+          2 if finished under 2 sec,
+          0 if finished over 2 sec.
 
 
   File: ex2b.c
@@ -36,5 +36,5 @@ File: ex2a.c
   Compile: gcc ex2b.c -Wall -o ex2b  
   Run: ./ex2b  
   input: no input  
-  output: process <pid> win. for the process that finishes first  
+  output: process <pid> win. for the process that finishes first,
           process <pid> surrender. for the process that didnt  
