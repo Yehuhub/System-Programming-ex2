@@ -4,7 +4,7 @@
 File: ex2a.c
   program to check if son can randomize numbers in set times
   =============================================================
-  Writen by: Yehu Raccah, id = 315346726, login = yehura
+  Writen by: Yehu Raccah
  
     the program will fork to create a son process and using 
     SIGALRM will find out if it takes it 1 second, 2 seconds, or more
@@ -23,7 +23,7 @@ File: ex2a.c
 
   File: ex2b.c
   =============================================================
-  Writen by: Yehu Raccah, id = 315346726, login = yehura
+  Writen by: Yehu Raccah
  
     the program will fork to create a son process.
     both father and son will run in an infinite loop until they either
