@@ -13,12 +13,12 @@ File: ex2a.c
     more than 1 second and under 2 it will print 2
     else will print 0
   
-  Compile: gcc ex2a.c -Wall -o ex2a
-  Run: ./ex2a
-  input: no input
-  output: 1 if finished under 1 sec
-          2 if finished under 2 sec
-          0 if finished over 2 sec
+  Compile: gcc ex2a.c -Wall -o ex2a  
+  Run: ./ex2a  
+  input: no input  
+  output: 1 if finished under 1 sec  
+          2 if finished under 2 sec  
+          0 if finished over 2 sec  
 
 
   File: ex2b.c
@@ -33,8 +33,8 @@ File: ex2a.c
     worst race condition in the program is the option for the father to win,
     in that case the son will continue running until it sent 7 signals
   
-  Compile: gcc ex2b.c -Wall -o ex2b
-  Run: ./ex2b
-  input: no input
-  output: process <pid> win. for the process that finishes first
-          process <pid> surrender. for the process that didnt
+  Compile: gcc ex2b.c -Wall -o ex2b  
+  Run: ./ex2b  
+  input: no input  
+  output: process <pid> win. for the process that finishes first  
+          process <pid> surrender. for the process that didnt  
